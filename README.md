@@ -1,5 +1,15 @@
 from chat gpt:
 
+🚫 Why SecurityX Doesn’t Qualify:
+
+SecurityX = Entry-level cert (equivalent to legacy Security+)
+
+8140 Level 3 = Senior-level / Architect / Engineer roles
+
+ISSE positions require advanced certifications mapped to the IASAE III category under 8140
+
+SecurityX is mapped only to IAT Level II or IAM Level I in the 8140 framework — not IASAE at all
+
 ✅ Your Current Standing:
 
 🎓 BS in IT → Meets degree requirement for most DoD roles
