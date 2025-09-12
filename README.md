@@ -1,4 +1,5 @@
 from chat gpt:
+
 ✅ Your Current Standing:
 
 🎓 BS in IT → Meets degree requirement for most DoD roles
