@@ -7,6 +7,7 @@ from chat gpt:
 
 🛡️ Likely already have Security+ (SecurityX) → IAT Level II
 
+
 🔑 What You Need Next:
 
 To qualify for ISSE (IASAE Level III), you need:
