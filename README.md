@@ -31,6 +31,7 @@ Once you have CISSP-ISSEP, you're 100% compliant for ISSE under 8140 Level 3 (IA
 
 
 📌 Fast-Track Options:
+
 🧩 Option 1: “Earn CISSP First” Route
 
 Study for and pass CISSP
