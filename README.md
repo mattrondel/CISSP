@@ -1,0 +1,62 @@
+from chat gpt:
+
+CISSP (base)
+
+| Resource                                                                     | What makes it useful                                                                      |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| *CISSP Study Guide: Eric Conrad, Seth Misenar, Joshua Feldman*               | Clear explanations, well-organized by domain. ([Amazon][1])                               |
+| *CISSP All‑in‑One Exam Guide (Shon Harris / Fernando Maymi, latest edition)* | Very thorough; great reference material for deep dives. ([techhyme.com][2])               |
+| *Eleventh Hour CISSP: Study Guide*                                           | Good for review / last‑minute cramming. Highlights of core topics. ([Simplilearn.com][3]) |
+| *Official (ISC)² CISSP Official Practice Tests*                              | To test yourself frequently; helps with exam‑style thinking. ([Amazon][4])                |
+
+[1]: https://www.amazon.com/CISSP-Study-Guide-Eric-Conrad/dp/1597499617?utm_source=chatgpt.com "CISSP Study Guide: Conrad, Eric, Misenar, Seth, Feldman, Joshua: 9781597499613: Amazon.com: Books"
+[2]: https://techhyme.com/the-best-cissp-books-and-study-guides-for-2025/?utm_source=chatgpt.com "The Best CISSP Books and Study Guides for 2025 - Tech Hyme"
+[3]: https://www.simplilearn.com/book-resources-to-read-for-cissp-certification-exam-article?utm_source=chatgpt.com "Top CISSP Books and Study Guides for the CISSP Certification"
+[4]: https://www.amazon.com/Certified-Information-Security-Professional-Official/dp/1119787637?utm_source=chatgpt.com "(ISC)2 CISSP Certified Information Systems Security Professional Official Practice Tests: Chapple, Mike, Seidl, David: 9781119787631: Amazon.com: Books"
+
+
+ISSEP (CISSP Concentration)
+
+Since ISSEP is more specialized, you’ll want both official and supplementary materials.
+
+| Resource                                          | What it covers / why good                                                                                                                                       |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *ISC² ISSEP: Enhanced Online Self‑Paced Training* | Aligned to the current ISSEP domains. Interactive training, flash cards, etc. ([ISC2][1])                                                                       |
+| *ISC² ISSEP Study Questions eBook*                | 400+ study questions tied to the domains. Good practice. ([ISC2][2])                                                                                            |
+| *NICCS / Test Pass Academy course* on ISSEP       | Instructor‑led + classroom options. Good structure & accountability. ([Cybersecurity Careers][3])                                                               |
+| Standards, frameworks (NIST, DoD processes)       | Many people who passed say that studying NIST SP 800 series and DoD life cycle / RMF frameworks gave them the edge. Reddit threads mention those. ([Reddit][4]) |
+
+[1]: https://www.isc2.org/Insights/2024/01/Enhanced-ISSEP-Online-Self-Paced-Training?utm_source=chatgpt.com "Enhanced ISSEP Online Self-Paced Training Now Aligns to Domains"
+[2]: https://www.isc2.org/training/resources/issep-study-questions-ebook?utm_source=chatgpt.com "ISC2 ISSEP Study Questions eBook"
+[3]: https://niccs.cisa.gov/training/catalog/tpai/isc2-information-systems-security-engineering-professional-cissp-issep?utm_source=chatgpt.com "(ISC)2 Information Systems Security Engineering Professional (CISSP-ISSEP) from Test Pass Academy, LLC. | NICCS"
+[4]: https://www.reddit.com/r/cissp/comments/1ceqbjd?utm_source=chatgpt.com "Passed CISSP-ISSEP in 90 mins"
+
+🛠️ Proposed Timeline / Study Plan
+
+Here’s a sample schedule you could adapt (assuming you can commit part‑time over ~3‑4 months). Adjust based on how much time per week you can devote.
+
+| Phase                                         | Duration                 | Tasks                                                                                                                                                                                                                                |
+| --------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Phase 1 – Review CISSP Domains / Baseline** | \~4‑6 weeks              | Read through one of the full CISSP guides as your primary text. Do small domain by domain study. Take quizzes at the end of each chapter.                                                                                            |
+| **Phase 2 – Practice + Weak Areas**           | \~2‑3 weeks              | Use practice tests. Identify weak domains. Focus deeper study in those. Use “Eleventh Hour” or similar to reinforce.                                                                                                                 |
+| **Phase 3 – Start ISSEP prep**                | \~4‑5 weeks              | Enroll in ISSEP self‑paced course or instructor‑led if possible. Read ISSEP domain material, study engineering lifecycle, risk management, secure planning & design, implementation/validation. Use the ISSEP Study Questions eBook. |
+| **Phase 4 – Mock Exams + Final Review**       | \~1‑2 weeks              | Take full mock tests (CISSP + ISSEP where applicable). Re‑review NIST / RMF documents and systems engineering concepts. Flash cards. Ensure you can reason through scenario‑based questions. Sleep restudy, etc.                     |
+| **Phase 5 – Exam Time**                       | After you feel confident | Schedule CISSP exam; after passing (or close) schedule ISSEP concentration.                                                                                                                                                          |
+
+✅ Study Tips / Best Practices
+
+Understand, don’t just memorize: many questions are scenario‑based (“what’s best, what’s first, etc.”). Understanding flows in RMF, engineering lifecycle, risk, etc. helps more than rote memory.
+
+Use official sources: ISC²’s exam outline, their self‑paced training. Helps ensure what you're studying is up to date. 
+ISC2
++2
+Cybersecurity Careers
++2
+
+Set milestones: schedule blocks to complete certain domains, complete so many practice questions, etc.
+
+Hands‑on / real experience: your years of experience help a lot. Try to map what you already know into the domains (e.g. if you’ve done risk assessments, system design, validation, etc.) so you can recall practical examples.
+
+Group study / discussion: forums (AMC, Reddit, ISC²), or study partners help to hash out tricky concepts.
+
+Stay current on frameworks: Make sure you're familiar with the current version of NIST SP 800‑53, RMF guidelines, DoD policies if relevant. Information engineering and system architecture topics in ISSEP often pull from these.
