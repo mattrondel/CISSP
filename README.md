@@ -22,6 +22,14 @@ ISSEP = Information Systems Security Engineering Professional
 
 Once you have CISSP-ISSEP, you're 100% compliant for ISSE under 8140 Level 3 (IASAE III).
 
+| Step      | Action                                                 |
+| --------- | ------------------------------------------------------ |
+| ✅ Step 1  | Confirm Security+ is current (for IAT II baseline)     |
+| 🔜 Step 2 | Study for and pass **CISSP**                           |
+| 🎯 Step 3 | Add **ISSEP** concentration                            |
+| 🚀 Step 4 | Apply to ISSE roles under DoD contracts (8140 Level 3) |
+
+
 📌 Fast-Track Options:
 🧩 Option 1: “Earn CISSP First” Route
 
